@@ -9,3 +9,9 @@ var first = 1;
 var second = 2;
 var sum = first + second;
 ```
+
+```markdown
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+```
